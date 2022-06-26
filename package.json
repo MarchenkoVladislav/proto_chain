@@ -1,0 +1,22 @@
+{
+  "name": "proto_chain",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarchenkoVladislav/proto_chain.git"
+  },
+  "author": "Marchenko Vladislav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarchenkoVladislav/proto_chain/issues"
+  },
+  "homepage": "https://github.com/MarchenkoVladislav/proto_chain#readme",
+  "description": "",
+  "dependencies": {
+    "goss_proto": "^1.0.0"
+  }
+}
